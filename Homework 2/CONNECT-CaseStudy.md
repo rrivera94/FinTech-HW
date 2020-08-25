@@ -1,5 +1,5 @@
 # CONNECT
-![Company Logo](Images/CONNECT_Logo.png)
+![Company Logo](CONNECT_Logo.png)
 
 ## CONNECT by Crossbridge originated from Singapore in November 2016, and is headquartered in London, UK. It is the first and largest robo-advisor from Singapore which caters specialized investments to accredited investors including individuals. 
 
