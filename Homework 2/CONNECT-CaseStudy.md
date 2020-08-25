@@ -5,7 +5,7 @@
 
 * CONNECT by Crossbridge was founded in November 2016, however Crossbridge Capital has been around from London to Singapore since 2008. 
 * Tarkek Khlat co-founded Crossbridge Capital and has been at the helm of leadership and for both Crossbridge Capital and CONNECT for twelve and fours years accordingly. 
-* CONNECT began by creating a goal-based approach to investing keeping things simple and straightforward for investors who each can diversify their risk amid their individual portfolios.
+* CONNECT began by creating a goal-based approach to investing keeping things simple and straightforward for investors who individually diversify their risk to format their preferred portfolios.
 * CONNECT by Crossbridge was funded into conception by Crossbridge Capital with over $4.5B in AUM. 
 
 ## Business Activities 
