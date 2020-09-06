@@ -1,2 +1,1 @@
-# FinTech-HW
-FinTech Yay
+FinTech Homework
